@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Hi, I'm Joshua O. Adegoke 👋  
 
 🚀 **Senior Frontend Engineer | MSc Cybersecurity (Distinction)**  
