@@ -1,12 +1,12 @@
 # Hi, I'm Joshua O. Adegoke 👋  
 
-🚀 **Senior Frontend Engineer | MSc Cybersecurity (Distinction)**  
+**Senior Frontend Engineer | MSc Cybersecurity (Distinction)**  
 Based in the UK, I specialise in building **accessible, scalable, and secure web applications** with modern JavaScript frameworks.  
 I combine **6+ years of frontend engineering** with a strong background in **application security and DevOps practices**, helping teams deliver fast, reliable, and secure products.  
 
 ---
 
-## 🔑 What I Do
+## What I Do
 - **Frontend Engineering:** React, React Native, Next.js (App Router), TypeScript, Tailwind CSS, shadcn/ui  
 - **Architecture & Performance:** Scalable UI systems, optimisation, and accessibility  
 - **Secure Software Practices:** Application security, CI/CD, cloud compliance, incident response  
@@ -14,7 +14,7 @@ I combine **6+ years of frontend engineering** with a strong background in **app
 
 ---
 
-## 📌 Featured Work
+## Featured Work
 Here are some pinned projects that reflect my focus on **scalable SaaS, security, and frontend excellence**:  
 - **Identity Management Application** – Multi-tenant React.js application with modern tooling and secure APIs for managing over 20+ million identity records
 - **Lending SaaS Application** - React/NextJS/Remix Core Application suite using Module federation and monorepo, improving reusability and code overall developer experience
@@ -25,7 +25,7 @@ Here are some pinned projects that reflect my focus on **scalable SaaS, security
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 - **Languages:** TypeScript, JavaScript, C++ (familiarity), Python (scripting/automation)  
 - **Frontend:** React, Next.js, Tailwind, shadcn/ui, Vite, TanStack Query  
 - **Backend & Infra:** Docker, Azure, Node.js APIs  
@@ -33,7 +33,7 @@ Here are some pinned projects that reflect my focus on **scalable SaaS, security
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 - LinkedIn: [Joshua OA](https://linkedin.com/in/adegokejoshuao)  
 - Portfolio: [oluwafemi-ayo.web.app](https://oluwafemi-ayo.web.app)  
 
